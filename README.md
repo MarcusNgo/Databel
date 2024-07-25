@@ -1,1 +1,2 @@
 # Databel
+"You'll be using a fictitious churn dataset from a Telecom provider called Databel. You are hired as a consultant, and your task is to analyze why customers are churning, or in other words, leaving Databel. The Databel dataset consists of 29 different columns and has one row per customer. You'll be analyzing a snapshot of the database at a specific moment in time, meaning there is no time dimension. "
